@@ -54,10 +54,11 @@ Arduino Uno: Більша за розміром. Підключається до
 
 Обидва мікроконтролери зображено на фотографіях нижче:
 #### Arduino Uno
-![[Arduino_Uno.png]]
+![Arduino_Uno](https://github.com/4ayokk/-/assets/113011334/d242f6d8-3f70-4ef4-9246-ae6472afea8d)
 
 #### STM32F103C8T6 та програматор ST-Link V2
-![[STM32F103C8T6.png]]
+![STM32F103C8T6](https://github.com/4ayokk/-/assets/113011334/e3b519c1-b462-4ce8-940f-1b18a05c65f6)
+
 
 ### Код для блимання світлодіодом
 
@@ -90,17 +91,19 @@ void loop() {
 При програмуванні плати Arduino, середовище "Arduino IDE" автоматично визначає плату і порт до якого вона підключена. Якщо цього не сталося всі ці дії потрібно зробити вручну.
 
 Для цього потрібно клікнути на поле підключення:
-![[Pasted image 20231227132308.png]]
+![Підключення](https://github.com/4ayokk/-/assets/113011334/0f549c2d-af36-447a-90b5-0b4e6f2dffb7)
+
 
 та в наступному вікні обрати плату та USB-порт до якого вона підключена:
-![[Pasted image 20231227132410.png]]
+![SelectBoardAndPort](https://github.com/4ayokk/-/assets/113011334/0fa42212-8550-41c8-a9d7-baf3c9a57c99)
+
 
 #### STM32
 
 При програмуванні STM32 через "Arduino IDE" потрібно обрати сімейство плат (в даному випадку це `STM32F103C series`, порт, а також  додатково потрібно обрати тип програматора:
 Tools >> Upload Method >> STLink.
+![ChangeUploadMethod](https://github.com/4ayokk/-/assets/113011334/f40eb7e9-e9f5-4135-bf2f-fafd4fe2935f)
 
-![[Pasted image 20231227132950.png]]
 
 ### Результат
 
@@ -108,5 +111,13 @@ Tools >> Upload Method >> STLink.
 ![[Arduino.mp4]]
 
 #### STM32
-![[STM32F103C8T6.mp4]]
+
+
+https://github.com/4ayokk/-/assets/113011334/c7e82c6b-4a9d-4ba7-975a-522035724623
+
+
+
+Uploading STM32F103C8T6.mp4…
+
+
 
