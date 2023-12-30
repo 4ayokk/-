@@ -108,16 +108,11 @@ Tools >> Upload Method >> STLink.
 ### Результат
 
 #### Arduino
-![[Arduino.mp4]]
+https://github.com/4ayokk/-/assets/113011334/5aab4803-04e3-4734-adcf-929c431976f3
+
+
 
 #### STM32
 
 
 https://github.com/4ayokk/-/assets/113011334/c7e82c6b-4a9d-4ba7-975a-522035724623
-
-
-
-Uploading STM32F103C8T6.mp4…
-
-
-
